@@ -1,6 +1,6 @@
 {
   "name": "request-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like requestIdleCallback, but for everywhere",
   "license": "MIT",
   "repository": {
