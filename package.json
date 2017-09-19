@@ -1,0 +1,32 @@
+{
+  "name": "request-callback",
+  "version": "1.0.0",
+  "description": "Like requestIdleCallback, but for everywhere",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanford/request-callback.git"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (jackhanford.com)",
+  "scripts": {},
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "requestIdleCallback",
+    "ric",
+    "request",
+    "request callback"
+  ],
+  "dependencies": {
+    "global": "~4.3.2"
+  },
+  "devDependencies": {
+    "tape": "~4.6.3"
+  },
+  "bugs": {
+    "url": "https://github.com/hanford/request-callback/issues"
+  },
+  "homepage": "https://github.com/hanford/request-callback#readme",
+  "main": "index.js"
+}
