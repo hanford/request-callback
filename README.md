@@ -20,7 +20,7 @@ function HeavyFn () {
   ..
 }
 
-requestCallback(heaveFn)
+requestCallback(heavyFn)
 ```
 
 
